@@ -196,10 +196,13 @@ header {
 	border-radius: 50%;
 }
 
-.socialMediaLinks i {
+.socialMediaLinks {
 	margin-bottom: 3rem;
-	padding-right: 2rem;
 	display: block;
+}
+
+.socialMediaLinks i {
+	padding-right: 2rem;
 }
 
 /* Footer */
